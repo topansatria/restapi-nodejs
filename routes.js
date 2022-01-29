@@ -8,4 +8,7 @@ module.exports = function(app) {
 
     // routes tampil semua data mahasiswa
     app.route('/tampil').get(json.tampilSemuaData);
+
+    // routes tampil data mahasiswa berdasarkan id
+    app.route('/tampil/:id').get(json.tampilById);
 }
