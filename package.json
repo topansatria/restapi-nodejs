@@ -1,0 +1,25 @@
+{
+  "name": "restapitraining01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/topansatria/restapi-nodejs.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "node",
+    "js"
+  ],
+  "author": "effendyjr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/topansatria/restapi-nodejs/issues"
+  },
+  "homepage": "https://github.com/topansatria/restapi-nodejs#readme"
+}
